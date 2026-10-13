@@ -6,7 +6,7 @@ BRIA RMBG-1.4.
 
 ## Demonstração
 
-[Em breve: link para o Hugging Face Space]
+[link para o Hugging Face Space: https://huggingface.co/spaces/fabricioribeiro/remove_background]
 
 ## Sobre o projeto
 
